@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "springboot-reactive-frontend"
+  "defaultProject": "springboot-reactive-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
